@@ -10,5 +10,5 @@ Hello there! 👋 I'm Zhaka Hidayat, a curious learner who has a deep passion fo
 
 ### ✍️ Random Dev Quote
 <p align="center">
-<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
+<img height="auto" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
 </p>
