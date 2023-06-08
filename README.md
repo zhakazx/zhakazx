@@ -5,7 +5,6 @@ Hello there! 👋 I'm Zhaka Hidayat, a curious learner who has a deep passion fo
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhakazx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zhakazx&theme=tokyonight&hide_border=false"/>
-<br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhakazx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
