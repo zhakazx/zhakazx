@@ -9,4 +9,6 @@ Hello there! 👋 I'm Zhaka Hidayat, a curious learner who has a deep passion fo
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
+</p>
