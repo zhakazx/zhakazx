@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=435&lines=Zhaka+Hidayat+Yasir" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=435&lines=Zhaka+Hidayat+Yasir" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
