@@ -1,5 +1,7 @@
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=435&lines=Zhaka+Hidayat+Yasir" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=435&lines=Zhaka+Hidayat+Yasir" alt="Typing SVG" />
+  </a>
 </p>
 
 # 💫 About Me:
