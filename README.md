@@ -1,5 +1,6 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=435&lines=Zhaka+Hidayat+Yasir" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&width=435&lines=Zhaka+Hidayat+Yasir" alt="Typing SVG" />
+</p>
 
 # 💫 About Me:
 Hello there! 👋 I'm Zhaka Hidayat, a curious learner who has a deep passion for coding and an immense love for the moon. I believe that coding is like a journey to the moon, where every line of code takes me closer to new discoveries and endless possibilities.
