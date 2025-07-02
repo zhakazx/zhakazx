@@ -6,9 +6,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 
-Hello there! 👋 I'm Zhaka Hidayat, a curious learner who has a deep passion for coding and an immense love for the moon. I believe that coding is like a journey to the moon, where every line of code takes me closer to new discoveries and endless possibilities.
+```javascript
+const zhaka = {
+  name: "Zhaka Hidayat Yasir",
+  location: "Indonesia 🇮🇩",
+  passion: ["Coding", "Learning New Tech"],
+  currentMission: "Building digital experiences that reach for the stars",
+  lifePhilosophy: "Every line of code is a step closer to the moon 🌙",
+  funFact: "I code better at night when the moon is visible 🌕",
+};
 
 # 📊 GitHub Stats:
 
