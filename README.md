@@ -17,6 +17,7 @@ const zhaka = {
   lifePhilosophy: "Every line of code is a step closer to the moon 🌙",
   funFact: "I code better at night when the moon is visible 🌕",
 };
+```
 
 # 📊 GitHub Stats:
 
