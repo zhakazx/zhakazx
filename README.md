@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
 </div>
 
- 💫 About Me:
+## 💫 About Me:
 
 ```javascript
 const zhaka = {
@@ -37,7 +37,7 @@ const zhaka = {
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhakazx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> -->
@@ -45,8 +45,32 @@ const zhaka = {
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=zhakazx&theme=tokyonight&hide_border=false"/>
 </p>
 
-### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Divider"/>
+</div>
 
-<p align="center">
-<img height="auto" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
-</p>
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true" alt="Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Divider"/>
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhakazx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhakazx)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zhakazx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zhaqaa._)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zhaqa_)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Divider"/>
+</div>
